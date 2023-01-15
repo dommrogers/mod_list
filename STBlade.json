@@ -1,0 +1,48 @@
+{
+	"version": "2",
+	"author": "STBlade",
+	"authorURL": "https://github.com/dommrogers",
+	"supportURL": "",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "0.0.2",
+			"name": "UnlimitedRockCaches",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2022-12-25",
+			"updated": "2022-12-25",
+			"downloadURL": "https://github.com/dommrogers/UnlimitedRockCaches/releases/download/0.0.2/UnlimitedRockCaches.dll",
+			"modURL": "https://github.com/dommrogers/UnlimitedRockCaches",
+			"description": "A simple TLD (The Long Dark) mod to remove the limitation on how many Rock Caches you can place in a region.\n\nAllow up to 999 rock caches per region (uncertain on performance hit)\nRock caches can now be built right next to each other.",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.0.6",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		}
+	]
+}
