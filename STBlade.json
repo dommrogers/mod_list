@@ -39,7 +39,50 @@
 				"mlversion": "0.6.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ExportJournal",
+			"displayName": "Export Journal",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-02-08",
+			"updated": "2023-02-08",
+			"downloadURL": "https://github.com/dommrogers/ExportJournal/releases/download/1.0.0/ExportJournal.dll",
+			"modURL": "https://github.com/dommrogers/ExportJournal",
+			"description": "A mod for The Long Dark (2.06+) which allows the player to export the journal data of the active save game.",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Utility Mod",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": true,
 				"downloads": []
 			},
 			"aliases": []
