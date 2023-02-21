@@ -101,7 +101,7 @@
 			"description": "A utility mod for TLD that lets other mods save data independently of the save file.",
 			"tags": "",
 			"categories": [
-				"Utility Mod",
+				"Utility Mod"
 			],
 			"gameversion": [
 				"vanilla",
@@ -117,8 +117,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"mlversion": "0.6.0"
 				"tldversion": "2.06",
+				"mlversion": "0.6.0"
 			},
 			"updater": {
 				"enable": true,
