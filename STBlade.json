@@ -86,6 +86,45 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2.0",
+			"name": "ModData",
+			"displayName": "Mod Data",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-02-21",
+			"updated": "2023-02-21",
+			"downloadURL": "https://github.com/dommrogers/ModData/releases/download/1.2.0/ModData.dll",
+			"modURL": "https://github.com/dommrogers/ModData",
+			"description": "A utility mod for TLD that lets other mods save data independently of the save file.",
+			"tags": "",
+			"categories": [
+				"Utility Mod",
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"mlversion": "0.6.0"
+				"tldversion": "2.06",
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
