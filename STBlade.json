@@ -111,7 +111,7 @@
 			"dependencies": [],
 			"status": {
 				"working": true,
-				"beta": true,
+				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
