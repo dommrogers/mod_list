@@ -1205,16 +1205,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.2.0",
+			"version": "2.3.0",
 			"name": "GearSpawner",
 			"displayName": "Gear Spawner",
-			"author": "ds5678",
-			"previousAuthors": "",
+			"author": "STBlade",
+			"previousAuthors": "ds5678",
 			"released": "",
-			"updated": "2023-03-19",
-			"downloadURL": "https://github.com/ds5678/GearSpawner/releases/download/2.2.0/GearSpawner.dll",
-			"modURL": "https://github.com/ds5678/GearSpawner",
-			"description": "Utility mod for spawning modded items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"updated": "2023-04-04",
+			"downloadURL": "https://github.com/dommrogers/GearSpawner/releases/download/2.3.0/GearSpawner.dll",
+			"modURL": "https://github.com/dommrogers/GearSpawner",
+			"description": "Utility mod for spawning modded items.",
 			"tags": "",
 			"categories": [],
 			"gameversion": [
@@ -1233,7 +1233,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.07",
+				"tldversion": "2.10",
 				"mlversion": "0.6.0.0"
 			},
 			"updater": {
