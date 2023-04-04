@@ -1546,16 +1546,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "5.1.4",
+			"version": "6.0.0",
 			"name": "ModComponent",
 			"displayName": "",
-			"author": "ds5678",
-			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+			"author": "STBlade",
+			"previousAuthors": "<a href='https://github.com/ds5678' target='_blank'>ds5678</a>, <a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
 			"released": "",
-			"updated": "2022-03-31",
-			"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/5.1.4/ModComponent.dll",
-			"modURL": "https://github.com/ds5678/ModComponent",
-			"description": "Utility Mod; lets you load external item packs.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"updated": "2023-04-04",
+			"downloadURL": "https://github.com/dommrogers/ModComponent/releases/download/6.0.0/ModComponent.dll",
+			"modURL": "https://github.com/dommrogers/ModComponent",
+			"description": "Utility Mod; lets you load external item packs.",
 			"tags": "",
 			"categories": [],
 			"gameversion": [
@@ -1577,8 +1577,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "1.99",
-				"mlversion": "0.5.4.0"
+				"tldversion": "2.10",
+				"mlversion": "0.6.0"
 			},
 			"updater": {
 				"enable": true,
