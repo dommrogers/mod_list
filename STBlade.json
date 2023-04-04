@@ -1436,13 +1436,13 @@
 			"version": "2.0.0",
 			"name": "LocalizationUtilities",
 			"displayName": "Localization Utilities",
-			"author": "ds5678",
-			"previousAuthors": "",
+			"author": "STBlade",
+			"previousAuthors": "ds5678",
 			"released": "",
 			"updated": "2023-03-03",
-			"downloadURL": "https://github.com/ds5678/LocalizationUtilities/releases/download/2.0.0/LocalizationUtilities.dll",
-			"modURL": "https://github.com/ds5678/LocalizationUtilities",
-			"description": "Utility mod for localized text.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"downloadURL": "https://github.com/dommrogers/LocalizationUtilities/releases/download/2.0.0/LocalizationUtilities.dll",
+			"modURL": "https://github.com/dommrogers/LocalizationUtilities/",
+			"description": "Utility mod for localized text.",
 			"tags": "",
 			"categories": [],
 			"gameversion": [
@@ -1459,7 +1459,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.06",
+				"tldversion": "2.10",
 				"mlversion": "0.6.0.0"
 			},
 			"updater": {
