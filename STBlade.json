@@ -876,13 +876,13 @@
 			"version": "2.0.0",
 			"name": "CraftingRevisions",
 			"displayName": "Crafting Revisions",
-			"author": "ds5678",
-			"previousAuthors": "",
+			"author": "STBlade",
+			"previousAuthors": "ds5678",
 			"released": "",
 			"updated": "2023-03-16",
-			"downloadURL": "https://github.com/ds5678/CraftingRevisions/releases/download/2.0.0/CraftingRevisions.dll",
-			"modURL": "https://github.com/ds5678/CraftingRevisions",
-			"description": "Improves the Crafting UI and enables custom blueprint creation.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"downloadURL": "https://github.com/dommrogers/CraftingRevisions/releases/download/2.0.0/CraftingRevisions.dll",
+			"modURL": "https://github.com/dommrogers/CraftingRevisions/",
+			"description": "Improves the Crafting UI and enables custom blueprint creation.",
 			"tags": "",
 			"categories": [],
 			"gameversion": [
@@ -901,7 +901,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.06",
+				"tldversion": "2.10",
 				"mlversion": "0.6.0.0"
 			},
 			"updater": {
