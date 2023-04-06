@@ -171,45 +171,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
-			"name": "AlternativeActionUtilities [LEGACY]",
-			"displayName": "Alternative Action Utilities [LEGACY]",
-			"author": "ds5678",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2021-10-09",
-			"downloadURL": "https://github.com/ds5678/AlternativeActionUtilities/releases/download/1.0.0/AlternativeActionUtilities.dll",
-			"modURL": "https://github.com/ds5678/AlternativeActionUtilities",
-			"description": "Utility mod for custom mouse clicks.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.0.1",
 			"name": "ArcheryTargetPractice",
 			"displayName": "Archery Target Practice",
