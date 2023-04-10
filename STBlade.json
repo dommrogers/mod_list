@@ -2144,16 +2144,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "4.6.4",
-			"name": "UnityExplorer",
-			"displayName": "Unity Explorer",
-			"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a>",
-			"previousAuthors": "",
+			"version": "4.9.4",
+			"name": "UnityExplorer (NewML)",
+			"displayName": "Unity Explorer (NewML)",
+			"author": "<a href='https://github.com/Baydock' target='_blank'>Baydock</a>",
+			"previousAuthors": "Sinai",
 			"released": "",
-			"updated": "2022-4-10",
-			"downloadURL": "https://github.com/sinai-dev/UnityExplorer/releases/download/4.6.4/UnityExplorer.MelonLoader.Il2Cpp.zip",
-			"modURL": "https://github.com/sinai-dev/UnityExplorer",
-			"description": "An in-game UI for exploring, debugging, and modifying Unity games.",
+			"updated": "2023-2-17",
+			"downloadURL": "https://github.com/Baydock/UnityExplorer-NewML/releases/download/4.9.4/UnityExplorer.MelonLoader.IL2CPP.net6preview.interop.zip",
+			"modURL": "https://github.com/Baydock/UnityExplorer-NewML",
+			"description": "An in-game UI for exploring, debugging, and modifying Unity games.<br><br><a href='https://github.com/Baydock/UnityExplorer-NewML/blob/master/README.md#melonloader'>Install Instructions</a>",
 			"tags": "",
 			"categories": [],
 			"gameversion": [
@@ -2170,8 +2170,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.00",
-				"mlversion": "0.5.4.0"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
