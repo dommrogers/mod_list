@@ -1944,16 +1944,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "2.0.0",
 			"name": "TimberwolvesAnywhere",
 			"displayName": "Timberwolves Anywhere",
-			"author": "ds5678",
-			"previousAuthors": "",
+			"author": "STBlade",
+			"previousAuthors": "ds5678",
 			"released": "",
-			"updated": "2022-07-22",
-			"downloadURL": "https://github.com/ds5678/TimberwolvesAnywhere/releases/download/1.2.0/TimberwolvesAnywhere.dll",
-			"modURL": "https://github.com/ds5678/TimberwolvesAnywhere",
-			"description": "Allows the user to decide what type of wolves will spawn in a region.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"updated": "2023-04-10",
+			"downloadURL": "https://github.com/dommrogers/TimberwolvesAnywhere/releases/download/2.0.0/TimberwolvesAnywhere.dll",
+			"modURL": "https://github.com/dommrogers/TimberwolvesAnywhere/",
+			"description": "Allows the user to decide what type of wolves will spawn in a region.",
 			"tags": "",
 			"categories": [],
 			"gameversion": [
@@ -1972,8 +1972,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.00",
-				"mlversion": "0.5.4.0"
+				"tldversion": "2.12",
+				"mlversion": "0.6.0"
 			},
 			"updater": {
 				"enable": true,
