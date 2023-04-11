@@ -1072,51 +1072,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "4.5.1",
-			"name": "Food-Pack",
-			"displayName": "Food Pack",
-			"author": "ds5678",
-			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-			"released": "",
-			"updated": "2021-11-18",
-			"downloadURL": "https://github.com/ds5678/Food-Pack/releases/latest",
-			"modURL": "https://github.com/ds5678/Food-Pack",
-			"description": "Introduces 33 new food items.<br><br><a href='https://github.com/ds5678/Food-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [
-				"ModSettings",
-				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/ds5678/Food-Pack/releases/download/4.5.1/Food-Pack.modcomponent"
-				]
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "1.5.0",
 			"name": "ForgeBlueprintsMod",
 			"displayName": "Forge Blueprints Mod",
