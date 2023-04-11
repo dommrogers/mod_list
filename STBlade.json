@@ -473,7 +473,7 @@
 				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
-				"CraftingRevisions",
+				"CraftingRevisions"
 			],
 			"status": {
 				"working": true,
