@@ -170,43 +170,6 @@
 			"aliases": []
 		},
 		{
-			"type": "mod",
-			"version": "2.0.1",
-			"name": "ArcheryTargetPractice",
-			"displayName": "Archery Target Practice",
-			"author": "ds5678",
-			"previousAuthors": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>",
-			"released": "",
-			"updated": "2021-06-09",
-			"downloadURL": "https://github.com/ds5678/ArcheryTargetPractice/releases/download/2.0.1/ArcheryTargetPractice.dll",
-			"modURL": "https://github.com/ds5678/ArcheryTargetPractice",
-			"description": "Allows the player to level up their archery skill at the archery target in Pleasant Valley. Only works for levels 1 and 2.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
 			"type": "plugin",
 			"version": "1.2.0",
 			"name": "AutoUpdatingPlugin",
