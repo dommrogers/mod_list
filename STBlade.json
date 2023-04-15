@@ -674,49 +674,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "4.3.0",
-			"name": "Clothing-Pack",
-			"displayName": "Clothing Pack",
-			"author": "ds5678",
-			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-			"released": "",
-			"updated": "2021-04-09",
-			"downloadURL": "https://github.com/ds5678/Clothing-Pack/releases/latest",
-			"modURL": "https://github.com/ds5678/Clothing-Pack",
-			"description": "Introduces several clothing items including a new Beanie Cap.<br><br><a href='https://github.com/ds5678/Clothing-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [
-				"ModSettings",
-				"ModComponent"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.94",
-				"mlversion": "0.4.3.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/ds5678/Clothing-Pack/releases/download/4.3.0/Clothing-Pack.dll",
-					"https://github.com/ds5678/Clothing-Pack/releases/download/4.3.0/Clothing-Pack.modcomponent"
-				]
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "5.0.0",
 			"name": "Coordinates-Grabber",
 			"displayName": "Coordinates Grabber",
