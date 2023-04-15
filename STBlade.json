@@ -1231,43 +1231,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
-			"name": "LimitlessContainerSpace",
-			"displayName": "Limitless Container Space",
-			"author": "ds5678",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2021-03-15",
-			"downloadURL": "https://github.com/ds5678/LimitlessContainerSpace/releases/download/1.0.0/LimitlessContainerSpace.dll",
-			"modURL": "https://github.com/ds5678/LimitlessContainerSpace",
-			"description": "Raises the capacity on all containers to 10,000 kilograms.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.0.0",
 			"name": "LocalizationUtilities",
 			"displayName": "Localization Utilities",
