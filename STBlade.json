@@ -129,6 +129,45 @@
 		{
 			"type": "mod",
 			"version": "1.0.0",
+			"name": "FixSteamWorkshopItems",
+			"displayName": "Fix Steam Workshop Items",
+			"author": "STBlade",
+			"previousAuthors": "",
+			"released": "2023-04-02",
+			"updated": "2023-04-02",
+			"downloadURL": "https://github.com/dommrogers/FixSteamWorkshopItems/releases/download/1.0.0/FixSteamWorkshopItems.dll",
+			"modURL": "https://github.com/dommrogers/FixSteamWorkshopItems",
+			"description": "Very quick mod to re-enable workshop localization files",
+			"tags": "",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
 			"name": "AlcoholMod",
 			"displayName": "Alcohol Mod",
 			"author": "ds5678",
