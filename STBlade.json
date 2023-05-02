@@ -1982,9 +1982,9 @@
 			"previousAuthors": "Sinai",
 			"released": "",
 			"updated": "2023-2-17",
-			"downloadURL": "https://github.com/Baydock/UnityExplorer-NewML/releases/download/4.9.4/UnityExplorer.MelonLoader.IL2CPP.net6preview.interop.zip",
-			"modURL": "https://github.com/Baydock/UnityExplorer-NewML",
-			"description": "An in-game UI for exploring, debugging, and modifying Unity games.<br><br><a href='https://github.com/Baydock/UnityExplorer-NewML/blob/master/README.md#melonloader'>Install Instructions</a>",
+			"downloadURL": "https://github.com/dommrogers/UnityExplorer-NewML/releases/download/4.9.4/UnityExplorer.MelonLoader.IL2CPP.net6preview.interop.zip",
+			"modURL": "https://github.com/dommrogers/UnityExplorer-NewML",
+			"description": "An in-game UI for exploring, debugging, and modifying Unity games.<br><br><a href='https://github.com/dommrogers/UnityExplorer-NewML/blob/master/README.md#melonloader'>Install Instructions</a>",
 			"tags": "",
 			"categories": [],
 			"gameversion": [
