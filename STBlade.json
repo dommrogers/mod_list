@@ -166,49 +166,6 @@
 			"aliases": []
 		},
 		{
-			"type": "mod",
-			"version": "1.0.0",
-			"name": "AlcoholMod",
-			"displayName": "Alcohol Mod",
-			"author": "ds5678",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2021-10-13",
-			"downloadURL": "https://github.com/ds5678/AlcoholMod/releases/download/1.0.0/AlcoholMod.dll",
-			"modURL": "https://github.com/ds5678/AlcoholMod",
-			"description": "An optional addon for ModComponent enabling the alcohol mechanics. Without this, all alcoholic food functions as if it were non-alcoholic.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [
-				"ModSettings",
-				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
 			"type": "plugin",
 			"version": "1.2.0",
 			"name": "AutoUpdatingPlugin",
@@ -705,45 +662,6 @@
 			"testedon": {
 				"tldversion": "2.06",
 				"mlversion": "0.6.0.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "1.2.0",
-			"name": "CraftingHotkey",
-			"displayName": "Crafting Hotkey",
-			"author": "ds5678",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2021-10-21",
-			"downloadURL": "https://github.com/ds5678/CraftingHotkey/releases/download/1.2.0/CraftingHotkey.dll",
-			"modURL": "https://github.com/ds5678/CraftingHotkey",
-			"description": "Add a hotkey for the crafting menu.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
 			},
 			"updater": {
 				"enable": true,
