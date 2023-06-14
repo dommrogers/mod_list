@@ -1425,45 +1425,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
-			"name": "RadialMenuUtilities",
-			"displayName": "Radial Menu Utilities",
-			"author": "ds5678",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2021-04-09",
-			"downloadURL": "https://github.com/ds5678/RadialMenuUtilities/releases/download/1.0.1/RadialMenuUtilities.dll",
-			"modURL": "https://github.com/ds5678/RadialMenuUtilities",
-			"description": "A utility mod that adds the ability for other mods to create custom radial menus.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [
-				"KeyboardUtilities"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "1.2.0",
 			"name": "RandomizeInterloperRareSpawns",
 			"displayName": "Randomize Interloper Rare Spawns",
