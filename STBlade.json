@@ -243,56 +243,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "4.3.0",
-			"name": "Better-Fuel-Management",
-			"displayName": "Better Fuel Management",
-			"author": "ds5678",
-			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-			"released": "",
-			"updated": "2021-10-21",
-			"downloadURL": "https://github.com/ds5678/Better-Fuel-Management/releases/latest",
-			"modURL": "https://github.com/ds5678/Better-Fuel-Management",
-			"description": "Makes kerosene management more realistic.<br><br><a href='https://github.com/ds5678/Better-Fuel-Management' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [
-				"ModSettings",
-				"ModComponent",
-				"KeyboardUtilities",
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions",
-				"RadialMenuUtilities"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/ds5678/Better-Fuel-Management/releases/download/4.3.0/Better-Fuel-Management.dll",
-					"https://github.com/ds5678/Better-Fuel-Management/releases/download/4.3.0/Better-Fuel-Management.modcomponent"
-				]
-			},
-			"aliases": [
-				"BetterFuelManagement"
-			]
-		},
-		{
-			"type": "mod",
 			"version": "4.1.0",
 			"name": "Better-Night-Sky",
 			"displayName": "Better Night Sky",
