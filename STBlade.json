@@ -683,14 +683,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.3.1",
+			"version": "2.3.2",
 			"name": "GearSpawner",
 			"displayName": "Gear Spawner",
 			"author": "STBlade",
 			"previousAuthors": "ds5678",
 			"released": "",
-			"updated": "2023-04-09",
-			"downloadURL": "https://github.com/dommrogers/GearSpawner/releases/download/2.3.1/GearSpawner.dll",
+			"updated": "2023-06-22",
+			"downloadURL": "https://github.com/dommrogers/GearSpawner/releases/download/2.3.2/GearSpawner.dll",
 			"modURL": "https://github.com/dommrogers/GearSpawner",
 			"description": "Utility mod for spawning modded items.",
 			"tags": "",
@@ -711,8 +711,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
-				"mlversion": "0.6.0.0"
+				"tldversion": "2.17",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
