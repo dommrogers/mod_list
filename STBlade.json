@@ -167,13 +167,13 @@
 		},
 		{
 			"type": "plugin",
-			"version": "1.3.0",
+			"version": "1.3.2",
 			"name": "AutoUpdatingPlugin",
 			"displayName": "Auto-Updating Plugin",
 			"author": "STBlade, ds5678",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2023-06-20",
+			"updated": "2023-06-22",
 			"downloadURL": "https://github.com/dommrogers/AutoUpdatingPlugin/releases/latest/download/AutoUpdatingPlugin.dll",
 			"modURL": "https://github.com/dommrogers/AutoUpdatingPlugin",
 			"description": "Plugin. Updates most Mods & Plugins automatically.",
@@ -193,7 +193,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.16",
+				"tldversion": "2.17",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
