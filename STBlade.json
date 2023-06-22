@@ -1269,16 +1269,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "3.0.0",
+			"version": "3.1.0",
 			"name": "SkipIntroRedux",
 			"displayName": "Skip Intro",
 			"author": "ds5678",
-			"previousAuthors": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>",
+			"previousAuthors": "ds5678, AlexTheRegent",
 			"released": "",
-			"updated": "2023-01-05",
-			"downloadURL": "https://github.com/ds5678/SkipIntroRedux/releases/download/3.0.0/SkipIntroRedux.dll",
-			"modURL": "https://github.com/ds5678/SkipIntroRedux",
-			"description": "Allows the player to skip to the main menu when starting the game.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"updated": "2023-06-23",
+			"downloadURL": "https://github.com/dommrogers/SkipIntroRedux/releases/download/3.1.0/SkipIntroRedux.dll",
+			"modURL": "https://github.com/dommrogers/SkipIntroRedux",
+			"description": "Allows the player to skip to the main menu when starting the game.<br><br><b>Use at your own risk</b> - Now skips those pesky disclaimers.",
 			"tags": "",
 			"categories": [],
 			"gameversion": [
@@ -1295,8 +1295,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.06",
-				"mlversion": "0.6.0.0"
+				"tldversion": "2.17",
+				"mlversion": "0.6.1.0"
 			},
 			"updater": {
 				"enable": true,
