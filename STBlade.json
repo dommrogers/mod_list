@@ -511,6 +511,42 @@
                 "downloads": []
             },
             "aliases": []
-        }
+        }, {
+            "type": "mod",
+            "version": "2.0.0",
+            "name": "KeyboardUtilities",
+            "displayName": "Keyboard Utilities",
+            "author": "ds5678",
+            "previousAuthors": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a>",
+            "released": "",
+            "updated": "2023-02-28",
+            "downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/2.0.0/KeyboardUtilities.dll",
+            "modURL": "https://github.com/ds5678/KeyboardUtilities",
+            "description": "A utility mod that enables other mods to more easily use keyboard and mouse input.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+            "tags": "",
+            "categories": [],
+            "gameversion": [
+                "vanilla",
+                "tftft"
+            ],
+            "images": [],
+            "dependencies": [],
+            "status": {
+                "working": true,
+                "beta": false,
+                "patchnotes": "",
+                "notes": "",
+                "issues": ""
+            },
+            "testedon": {
+                "tldversion": "2.19",
+                "mlversion": "0.6.1"
+            },
+            "updater": {
+                "enable": true,
+                "downloads": []
+            },
+            "aliases": []
+        },
     ]
 }
