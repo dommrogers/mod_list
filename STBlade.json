@@ -34,8 +34,8 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.06",
-                "mlversion": "0.6.0"
+                "tldversion": "2.19",
+                "mlversion": "0.6.1"
             },
             "updater": {
                 "enable": true,
@@ -76,8 +76,8 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.06",
-                "mlversion": "0.6.0"
+                "tldversion": "2.19",
+                "mlversion": "0.6.1"
             },
             "updater": {
                 "enable": true,
@@ -114,7 +114,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.12",
+                "tldversion": "2.19",
                 "mlversion": "0.6.1"
             },
             "updater": {
@@ -152,7 +152,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.12",
+                "tldversion": "2.19",
                 "mlversion": "0.6.1"
             },
             "updater": {
@@ -188,7 +188,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.17",
+                "tldversion": "2.19",
                 "mlversion": "6.0.1"
             },
             "updater": {
@@ -273,7 +273,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.17",
+                "tldversion": "2.19",
                 "mlversion": "0.6.1"
             },
             "updater": {
@@ -312,7 +312,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.17",
+                "tldversion": "2.19",
                 "mlversion": "0.6.1"
             },
             "updater": {
@@ -348,8 +348,8 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.10",
-                "mlversion": "0.6.0.0"
+                "tldversion": "2.19",
+                "mlversion": "0.6.1"
             },
             "updater": {
                 "enable": true,
@@ -389,7 +389,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.17",
+                "tldversion": "2.19",
                 "mlversion": "0.6.1"
             },
             "updater": {
@@ -429,8 +429,8 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.17",
-                "mlversion": "0.6.1.0"
+                "tldversion": "2.19",
+                "mlversion": "0.6.1"
             },
             "updater": {
                 "enable": true,
@@ -467,8 +467,8 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.12",
-                "mlversion": "0.6.0"
+                "tldversion": "2.19",
+                "mlversion": "0.6.1"
             },
             "updater": {
                 "enable": true,
@@ -503,7 +503,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.12",
+                "tldversion": "2.19",
                 "mlversion": "0.6.1"
             },
             "updater": {
