@@ -483,10 +483,10 @@
             "author": "<a href='https://github.com/Baydock' target='_blank'>Baydock</a>",
             "previousAuthors": "Sinai",
             "released": "",
-            "updated": "2023-2-17",
-            "downloadURL": "https://github.com/dommrogers/UnityExplorer-NewML/releases/download/4.9.4/UnityExplorer.MelonLoader.IL2CPP.net6preview.interop.zip",
-            "modURL": "https://github.com/dommrogers/UnityExplorer-NewML",
-            "description": "An in-game UI for exploring, debugging, and modifying Unity games.<br><br><a href='https://github.com/dommrogers/UnityExplorer-NewML/blob/master/README.md#melonloader'>Install Instructions</a>",
+            "updated": "2023-08-07",
+            "downloadURL": "https://github.com/dommrogers/UnityExplorerTLD/releases/download/4.9.4/UnityExplorer.MelonLoader.IL2CPP.net6preview.interop.zip",
+            "modURL": "https://github.com/dommrogers/UnityExplorerTLD",
+            "description": "Bespoke TLD - in-game UI for exploring, debugging and modifying IL2CPP<br><br><a href='https://github.com/dommrogers/UnityExplorerTLD/blob/master/README.md#melonloader'>Install Instructions</a>",
             "tags": "",
             "categories": [],
             "gameversion": [
@@ -503,7 +503,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.19",
+                "tldversion": "2.22",
                 "mlversion": "0.6.1"
             },
             "updater": {
