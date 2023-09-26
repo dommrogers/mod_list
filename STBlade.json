@@ -245,14 +245,14 @@
             ]
         }, {
             "type": "mod",
-            "version": "2.2.0",
+            "version": "2.2.1",
             "name": "CraftingRevisions",
             "displayName": "Crafting Revisions",
             "author": "STBlade",
             "previousAuthors": "ds5678",
             "released": "",
             "updated": "2023-08-26",
-            "downloadURL": "https://github.com/dommrogers/CraftingRevisions/releases/download/2.2.0/CraftingRevisions.dll",
+            "downloadURL": "https://github.com/dommrogers/CraftingRevisions/releases/download/2.2.1/CraftingRevisions.dll",
             "modURL": "https://github.com/dommrogers/CraftingRevisions/",
             "description": "Improves the Crafting UI and enables custom blueprint creation.",
             "tags": "",
