@@ -114,7 +114,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.19",
+                "tldversion": "2.23",
                 "mlversion": "0.6.1"
             },
             "updater": {
@@ -188,7 +188,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.19",
+                "tldversion": "2.23",
                 "mlversion": "6.0.1"
             },
             "updater": {
@@ -245,14 +245,14 @@
             ]
         }, {
             "type": "mod",
-            "version": "2.1.0",
+            "version": "2.2.0",
             "name": "CraftingRevisions",
             "displayName": "Crafting Revisions",
             "author": "STBlade",
             "previousAuthors": "ds5678",
             "released": "",
-            "updated": "2023-06-22",
-            "downloadURL": "https://github.com/dommrogers/CraftingRevisions/releases/download/2.1.0/CraftingRevisions.dll",
+            "updated": "2023-08-26",
+            "downloadURL": "https://github.com/dommrogers/CraftingRevisions/releases/download/2.2.0/CraftingRevisions.dll",
             "modURL": "https://github.com/dommrogers/CraftingRevisions/",
             "description": "Improves the Crafting UI and enables custom blueprint creation.",
             "tags": "",
@@ -273,7 +273,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.19",
+                "tldversion": "2.23",
                 "mlversion": "0.6.1"
             },
             "updater": {
@@ -312,7 +312,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.19",
+                "tldversion": "2.23",
                 "mlversion": "0.6.1"
             },
             "updater": {
@@ -348,7 +348,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.19",
+                "tldversion": "2.23",
                 "mlversion": "0.6.1"
             },
             "updater": {
@@ -358,14 +358,14 @@
             "aliases": []
         }, {
             "type": "mod",
-            "version": "6.1.1",
+            "version": "6.2.0",
             "name": "ModComponent",
             "displayName": "",
             "author": "STBlade",
             "previousAuthors": "<a href='https://github.com/ds5678' target='_blank'>ds5678</a>, <a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
             "released": "",
-            "updated": "2023-06-22",
-            "downloadURL": "https://github.com/dommrogers/ModComponent/releases/download/6.1.1/ModComponent.dll",
+            "updated": "2023-09-26",
+            "downloadURL": "https://github.com/dommrogers/ModComponent/releases/download/6.2.0/ModComponent.dll",
             "modURL": "https://github.com/dommrogers/ModComponent",
             "description": "Utility Mod; lets you load external item packs.",
             "tags": "",
@@ -389,7 +389,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.19",
+                "tldversion": "2.23",
                 "mlversion": "0.6.1"
             },
             "updater": {
@@ -429,7 +429,7 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.19",
+                "tldversion": "2.23",
                 "mlversion": "0.6.1"
             },
             "updater": {
