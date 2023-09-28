@@ -358,14 +358,14 @@
             "aliases": []
         }, {
             "type": "mod",
-            "version": "6.2.0",
+            "version": "6.2.1",
             "name": "ModComponent",
             "displayName": "",
             "author": "STBlade",
             "previousAuthors": "<a href='https://github.com/ds5678' target='_blank'>ds5678</a>, <a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
             "released": "",
-            "updated": "2023-09-26",
-            "downloadURL": "https://github.com/dommrogers/ModComponent/releases/download/6.2.0/ModComponent.dll",
+            "updated": "2023-09-28",
+            "downloadURL": "https://github.com/dommrogers/ModComponent/releases/download/6.2.1/ModComponent.dll",
             "modURL": "https://github.com/dommrogers/ModComponent",
             "description": "Utility Mod; lets you load external item packs.",
             "tags": "",
