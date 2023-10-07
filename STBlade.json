@@ -198,14 +198,14 @@
             "aliases": []
         }, {
             "type": "mod",
-            "version": "5.1.0",
+            "version": "5.2.0",
             "name": "Better-Water-Management",
             "displayName": "Better Water Management",
             "author": "STBlade",
             "previousAuthors": "ds5678, <a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
             "released": "",
-            "updated": "2023-06-29",
-            "downloadURL": "https://github.com/dommrogers/Better-Water-Management/releases/tag/5.1.0",
+            "updated": "2023-10-07",
+            "downloadURL": "https://github.com/dommrogers/Better-Water-Management/releases/tag/5.2.0",
             "modURL": "https://github.com/dommrogers/Better-Water-Management",
             "description": "Mod improving the way water is managed for The Long Dark.<br><br><a href='https://github.com/dommrogers/Better-Water-Management' target='_blank'>Installation Instructions</a>",
             "tags": "",
@@ -230,14 +230,14 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.19",
+                "tldversion": "2.24",
                 "mlversion": "0.6.1"
             },
             "updater": {
                 "enable": true,
                 "downloads": [
-                    "https://github.com/dommrogers/Better-Water-Management/releases/download/5.1.0/Better-Water-Management.dll",
-                    "https://github.com/dommrogers/Better-Water-Management/releases/download/5.1.0/Better-Water-Management.modcomponent"
+                    "https://github.com/dommrogers/Better-Water-Management/releases/download/5.2.0/Better-Water-Management.dll",
+                    "https://github.com/dommrogers/Better-Water-Management/releases/download/5.2.0/Better-Water-Management.modcomponent"
                 ]
             },
             "aliases": [
