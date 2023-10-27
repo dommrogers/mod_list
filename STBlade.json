@@ -1,591 +1,606 @@
 {
-    "version": "2",
-    "author": "STBlade",
-    "authorURL": "https://github.com/dommrogers",
-    "supportURL": "https://www.patreon.com/STBlade",
-    "mods": [{
-            "type": "mod",
-            "version": "0.0.2",
-            "name": "UnlimitedRockCaches",
-            "displayName": "Unlimited Rock Caches",
-            "author": "STBlade",
-            "previousAuthors": "",
-            "released": "2022-12-25",
-            "updated": "2022-12-25",
-            "downloadURL": "https://github.com/dommrogers/UnlimitedRockCaches/releases/download/0.0.2/UnlimitedRockCaches.dll",
-            "modURL": "https://github.com/dommrogers/UnlimitedRockCaches",
-            "description": "A simple TLD (The Long Dark) mod to remove the limitation on how many Rock Caches you can place in a region.<br><br>Allow up to 999 rock caches per region (uncertain on performance hit)<br>Rock caches can now be built right next to each other.",
-            "tags": "",
-            "categories": [
-                "Quality of Life",
-                "Misc"
-            ],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.19",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        },
-{
-            "type": "mod",
-            "version": "1.0.0",
-            "name": "Halloween",
-            "displayName": "Halloween",
-            "author": "TLD Modding Community",
-            "previousAuthors": "",
-            "released": "2023-10-27",
-            "updated": "2023-10-27",
-            "downloadURL": "https://github.com/TLD-Mods/TLD-Halloween/releases/download/1.0.0/TLD-Halloween.zip",
-            "modURL": "https://github.com/TLD-Mods/TLD-Halloween/",
-            "description": "Howl-oween - Brought to you by the Discord Modding Community",
-            "tags": "",
-            "categories": [
-                "Misc"
-            ],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [{"https://raw.githubusercontent.com/TLD-Mods/TLD-Halloween/master/ThumbHW2.png"}],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.24",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        },		{
-            "type": "mod",
-            "version": "1.0.0",
-            "name": "ExportJournal",
-            "displayName": "Export Journal",
-            "author": "STBlade",
-            "previousAuthors": "",
-            "released": "2023-02-08",
-            "updated": "2023-02-08",
-            "downloadURL": "https://github.com/dommrogers/ExportJournal/releases/download/1.0.0/ExportJournal.dll",
-            "modURL": "https://github.com/dommrogers/ExportJournal",
-            "description": "A mod for The Long Dark (2.06+) which allows the player to export the journal data of the active save game.",
-            "tags": "",
-            "categories": [
-                "Quality of Life",
-                "Utility Mod",
-                "Misc"
-            ],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings"
-            ],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.19",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "1.5.1",
-            "name": "ModData",
-            "displayName": "Mod Data",
-            "author": "STBlade",
-            "previousAuthors": "",
-            "released": "2023-03-16",
-            "updated": "2023-04-18",
-            "downloadURL": "https://github.com/dommrogers/ModData/releases/download/1.5.1/ModData.dll",
-            "modURL": "https://github.com/dommrogers/ModData",
-            "description": "A utility mod for TLD that lets other mods save data independently of the save file.",
-            "tags": "",
-            "categories": [
-                "Utility Mod"
-            ],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.23",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "1.0.0",
-            "name": "FixSteamWorkshopItems",
-            "displayName": "Fix Steam Workshop Items",
-            "author": "STBlade",
-            "previousAuthors": "",
-            "released": "2023-04-02",
-            "updated": "2023-04-02",
-            "downloadURL": "https://github.com/dommrogers/FixSteamWorkshopItems/releases/download/1.0.0/FixSteamWorkshopItems.dll",
-            "modURL": "https://github.com/dommrogers/FixSteamWorkshopItems",
-            "description": "Very quick mod to re-enable workshop localization files",
-            "tags": "",
-            "categories": [
-                "Utility Mod"
-            ],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.19",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "plugin",
-            "version": "1.3.3",
-            "name": "AutoUpdatingPlugin",
-            "displayName": "Auto-Updating Plugin",
-            "author": "STBlade, ds5678",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2023-10-14",
-            "downloadURL": "https://github.com/dommrogers/AutoUpdatingPlugin/releases/latest/download/AutoUpdatingPlugin.dll",
-            "modURL": "https://github.com/dommrogers/AutoUpdatingPlugin",
-            "description": "Plugin. Updates most Mods & Plugins automatically.",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.24",
-                "mlversion": "6.0.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "5.2.0",
-            "name": "Better-Water-Management",
-            "displayName": "Better Water Management",
-            "author": "STBlade",
-            "previousAuthors": "ds5678, <a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-            "released": "",
-            "updated": "2023-10-07",
-            "downloadURL": "https://github.com/dommrogers/Better-Water-Management/releases/tag/5.2.0",
-            "modURL": "https://github.com/dommrogers/Better-Water-Management",
-            "description": "Mod improving the way water is managed for The Long Dark.<br><br><a href='https://github.com/dommrogers/Better-Water-Management' target='_blank'>Installation Instructions</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings",
-                "ModComponent",
-                "LocalizationUtilities",
-                "GearSpawner",
-                "CraftingRevisions"
-            ],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.24",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": [
-                    "https://github.com/dommrogers/Better-Water-Management/releases/download/5.2.0/Better-Water-Management.dll",
-                    "https://github.com/dommrogers/Better-Water-Management/releases/download/5.2.0/Better-Water-Management.modcomponent"
-                ]
-            },
-            "aliases": [
-                "BetterWaterManagement"
-            ]
-        }, {
-            "type": "mod",
-            "version": "2.2.2",
-            "name": "CraftingRevisions",
-            "displayName": "Crafting Revisions",
-            "author": "STBlade",
-            "previousAuthors": "ds5678",
-            "released": "",
-            "updated": "2023-10-07",
-            "downloadURL": "https://github.com/dommrogers/CraftingRevisions/releases/download/2.2.2/CraftingRevisions.dll",
-            "modURL": "https://github.com/dommrogers/CraftingRevisions/",
-            "description": "Improves the Crafting UI and enables custom blueprint creation.",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings"
-            ],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.24",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        },
-        {
-            "type": "mod",
-            "version": "2.3.2",
-            "name": "GearSpawner",
-            "displayName": "Gear Spawner",
-            "author": "STBlade",
-            "previousAuthors": "ds5678",
-            "released": "",
-            "updated": "2023-06-22",
-            "downloadURL": "https://github.com/dommrogers/GearSpawner/releases/download/2.3.2/GearSpawner.dll",
-            "modURL": "https://github.com/dommrogers/GearSpawner",
-            "description": "Utility mod for spawning modded items.",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings"
-            ],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.23",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "2.0.0",
-            "name": "LocalizationUtilities",
-            "displayName": "Localization Utilities",
-            "author": "STBlade",
-            "previousAuthors": "ds5678",
-            "released": "",
-            "updated": "2023-03-03",
-            "downloadURL": "https://github.com/dommrogers/LocalizationUtilities/releases/download/2.0.0/LocalizationUtilities.dll",
-            "modURL": "https://github.com/dommrogers/LocalizationUtilities/",
-            "description": "Utility mod for localized text.",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.23",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "6.2.1",
-            "name": "ModComponent",
-            "displayName": "",
-            "author": "STBlade",
-            "previousAuthors": "<a href='https://github.com/ds5678' target='_blank'>ds5678</a>, <a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-            "released": "",
-            "updated": "2023-09-28",
-            "downloadURL": "https://github.com/dommrogers/ModComponent/releases/download/6.2.1/ModComponent.dll",
-            "modURL": "https://github.com/dommrogers/ModComponent",
-            "description": "Utility Mod; lets you load external item packs.",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings",
-                "LocalizationUtilities",
-                "GearSpawner",
-                "CraftingRevisions"
-            ],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.23",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": [
-                "AssetLoader",
-                "ModComponentMapper",
-                "ModComponentAPI"
-            ]
-        }, {
-            "type": "mod",
-            "version": "3.1.1",
-            "name": "SkipIntroRedux",
-            "displayName": "Skip Intro",
-            "author": "STBlade",
-            "previousAuthors": "ds5678, AlexTheRegent",
-            "released": "",
-            "updated": "2023-06-23",
-            "downloadURL": "https://github.com/dommrogers/SkipIntroRedux/releases/download/3.1.1/SkipIntroRedux.dll",
-            "modURL": "https://github.com/dommrogers/SkipIntroRedux",
-            "description": "Allows the player to skip to the main menu when starting the game.<br><br><b>Use at your own risk</b> - Now skips those pesky disclaimers.",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.23",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "2.0.0",
-            "name": "TimberwolvesAnywhere",
-            "displayName": "Timberwolves Anywhere",
-            "author": "STBlade",
-            "previousAuthors": "ds5678",
-            "released": "",
-            "updated": "2023-04-10",
-            "downloadURL": "https://github.com/dommrogers/TimberwolvesAnywhere/releases/download/2.0.0/TimberwolvesAnywhere.dll",
-            "modURL": "https://github.com/dommrogers/TimberwolvesAnywhere/",
-            "description": "Allows the user to decide what type of wolves will spawn in a region.",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings"
-            ],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.19",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "4.9.4",
-            "name": "UnityExplorer",
-            "displayName": "Unity Explorer (NewML)",
-            "author": "<a href='https://github.com/Baydock' target='_blank'>Baydock</a>",
-            "previousAuthors": "Sinai",
-            "released": "",
-            "updated": "2023-08-07",
-            "downloadURL": "https://github.com/dommrogers/UnityExplorerTLD/releases/download/4.9.4/UnityExplorer.MelonLoader.IL2CPP.net6preview.interop.zip",
-            "modURL": "https://github.com/dommrogers/UnityExplorerTLD",
-            "description": "Bespoke TLD - in-game UI for exploring, debugging and modifying IL2CPP<br><br><a href='https://github.com/dommrogers/UnityExplorerTLD/blob/master/README.md#melonloader'>Install Instructions</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.22",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "2.0.0",
-            "name": "KeyboardUtilities",
-            "displayName": "Keyboard Utilities",
-            "author": "ds5678",
-            "previousAuthors": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a>",
-            "released": "",
-            "updated": "2023-02-28",
-            "downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/2.0.0/KeyboardUtilities.dll",
-            "modURL": "https://github.com/ds5678/KeyboardUtilities",
-            "description": "A utility mod that enables other mods to more easily use keyboard and mouse input.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.19",
-                "mlversion": "0.6.1"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }
-    ]
+	"version": "2",
+	"author": "STBlade",
+	"authorURL": "https://github.com/dommrogers",
+	"supportURL": "https://www.patreon.com/STBlade",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "0.0.2",
+			"name": "UnlimitedRockCaches",
+			"displayName": "Unlimited Rock Caches",
+			"author": "STBlade",
+			"previousAuthors": "",
+			"released": "2022-12-25",
+			"updated": "2022-12-25",
+			"downloadURL": "https://github.com/dommrogers/UnlimitedRockCaches/releases/download/0.0.2/UnlimitedRockCaches.dll",
+			"modURL": "https://github.com/dommrogers/UnlimitedRockCaches",
+			"description": "A simple TLD (The Long Dark) mod to remove the limitation on how many Rock Caches you can place in a region.<br><br>Allow up to 999 rock caches per region (uncertain on performance hit)<br>Rock caches can now be built right next to each other.",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.19",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Halloween",
+			"displayName": "Halloween",
+			"author": "TLD Modding Community",
+			"previousAuthors": "",
+			"released": "2023-10-27",
+			"updated": "2023-10-27",
+			"downloadURL": "https://github.com/TLD-Mods/TLD-Halloween/releases/download/1.0.0/TLD-Halloween.zip",
+			"modURL": "https://github.com/TLD-Mods/TLD-Halloween/",
+			"description": "Howl-oween - Brought to you by the Discord Modding Community",
+			"tags": "",
+			"categories": [
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/TLD-Mods/TLD-Halloween/master/ThumbHW2.png"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ExportJournal",
+			"displayName": "Export Journal",
+			"author": "STBlade",
+			"previousAuthors": "",
+			"released": "2023-02-08",
+			"updated": "2023-02-08",
+			"downloadURL": "https://github.com/dommrogers/ExportJournal/releases/download/1.0.0/ExportJournal.dll",
+			"modURL": "https://github.com/dommrogers/ExportJournal",
+			"description": "A mod for The Long Dark (2.06+) which allows the player to export the journal data of the active save game.",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Utility Mod",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.19",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.5.1",
+			"name": "ModData",
+			"displayName": "Mod Data",
+			"author": "STBlade",
+			"previousAuthors": "",
+			"released": "2023-03-16",
+			"updated": "2023-04-18",
+			"downloadURL": "https://github.com/dommrogers/ModData/releases/download/1.5.1/ModData.dll",
+			"modURL": "https://github.com/dommrogers/ModData",
+			"description": "A utility mod for TLD that lets other mods save data independently of the save file.",
+			"tags": "",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.23",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "FixSteamWorkshopItems",
+			"displayName": "Fix Steam Workshop Items",
+			"author": "STBlade",
+			"previousAuthors": "",
+			"released": "2023-04-02",
+			"updated": "2023-04-02",
+			"downloadURL": "https://github.com/dommrogers/FixSteamWorkshopItems/releases/download/1.0.0/FixSteamWorkshopItems.dll",
+			"modURL": "https://github.com/dommrogers/FixSteamWorkshopItems",
+			"description": "Very quick mod to re-enable workshop localization files",
+			"tags": "",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.19",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "plugin",
+			"version": "1.3.3",
+			"name": "AutoUpdatingPlugin",
+			"displayName": "Auto-Updating Plugin",
+			"author": "STBlade, ds5678",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-10-14",
+			"downloadURL": "https://github.com/dommrogers/AutoUpdatingPlugin/releases/latest/download/AutoUpdatingPlugin.dll",
+			"modURL": "https://github.com/dommrogers/AutoUpdatingPlugin",
+			"description": "Plugin. Updates most Mods & Plugins automatically.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "6.0.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "5.2.0",
+			"name": "Better-Water-Management",
+			"displayName": "Better Water Management",
+			"author": "STBlade",
+			"previousAuthors": "ds5678, <a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+			"released": "",
+			"updated": "2023-10-07",
+			"downloadURL": "https://github.com/dommrogers/Better-Water-Management/releases/tag/5.2.0",
+			"modURL": "https://github.com/dommrogers/Better-Water-Management",
+			"description": "Mod improving the way water is managed for The Long Dark.<br><br><a href='https://github.com/dommrogers/Better-Water-Management' target='_blank'>Installation Instructions</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/dommrogers/Better-Water-Management/releases/download/5.2.0/Better-Water-Management.dll",
+					"https://github.com/dommrogers/Better-Water-Management/releases/download/5.2.0/Better-Water-Management.modcomponent"
+				]
+			},
+			"aliases": [
+				"BetterWaterManagement"
+			]
+		},
+		{
+			"type": "mod",
+			"version": "2.2.2",
+			"name": "CraftingRevisions",
+			"displayName": "Crafting Revisions",
+			"author": "STBlade",
+			"previousAuthors": "ds5678",
+			"released": "",
+			"updated": "2023-10-07",
+			"downloadURL": "https://github.com/dommrogers/CraftingRevisions/releases/download/2.2.2/CraftingRevisions.dll",
+			"modURL": "https://github.com/dommrogers/CraftingRevisions/",
+			"description": "Improves the Crafting UI and enables custom blueprint creation.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.3.2",
+			"name": "GearSpawner",
+			"displayName": "Gear Spawner",
+			"author": "STBlade",
+			"previousAuthors": "ds5678",
+			"released": "",
+			"updated": "2023-06-22",
+			"downloadURL": "https://github.com/dommrogers/GearSpawner/releases/download/2.3.2/GearSpawner.dll",
+			"modURL": "https://github.com/dommrogers/GearSpawner",
+			"description": "Utility mod for spawning modded items.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.23",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "LocalizationUtilities",
+			"displayName": "Localization Utilities",
+			"author": "STBlade",
+			"previousAuthors": "ds5678",
+			"released": "",
+			"updated": "2023-03-03",
+			"downloadURL": "https://github.com/dommrogers/LocalizationUtilities/releases/download/2.0.0/LocalizationUtilities.dll",
+			"modURL": "https://github.com/dommrogers/LocalizationUtilities/",
+			"description": "Utility mod for localized text.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.23",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "6.2.1",
+			"name": "ModComponent",
+			"displayName": "",
+			"author": "STBlade",
+			"previousAuthors": "<a href='https://github.com/ds5678' target='_blank'>ds5678</a>, <a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+			"released": "",
+			"updated": "2023-09-28",
+			"downloadURL": "https://github.com/dommrogers/ModComponent/releases/download/6.2.1/ModComponent.dll",
+			"modURL": "https://github.com/dommrogers/ModComponent",
+			"description": "Utility Mod; lets you load external item packs.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.23",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"AssetLoader",
+				"ModComponentMapper",
+				"ModComponentAPI"
+			]
+		},
+		{
+			"type": "mod",
+			"version": "3.1.1",
+			"name": "SkipIntroRedux",
+			"displayName": "Skip Intro",
+			"author": "STBlade",
+			"previousAuthors": "ds5678, AlexTheRegent",
+			"released": "",
+			"updated": "2023-06-23",
+			"downloadURL": "https://github.com/dommrogers/SkipIntroRedux/releases/download/3.1.1/SkipIntroRedux.dll",
+			"modURL": "https://github.com/dommrogers/SkipIntroRedux",
+			"description": "Allows the player to skip to the main menu when starting the game.<br><br><b>Use at your own risk</b> - Now skips those pesky disclaimers.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.23",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "TimberwolvesAnywhere",
+			"displayName": "Timberwolves Anywhere",
+			"author": "STBlade",
+			"previousAuthors": "ds5678",
+			"released": "",
+			"updated": "2023-04-10",
+			"downloadURL": "https://github.com/dommrogers/TimberwolvesAnywhere/releases/download/2.0.0/TimberwolvesAnywhere.dll",
+			"modURL": "https://github.com/dommrogers/TimberwolvesAnywhere/",
+			"description": "Allows the user to decide what type of wolves will spawn in a region.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.19",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "4.9.4",
+			"name": "UnityExplorer",
+			"displayName": "Unity Explorer (NewML)",
+			"author": "<a href='https://github.com/Baydock' target='_blank'>Baydock</a>",
+			"previousAuthors": "Sinai",
+			"released": "",
+			"updated": "2023-08-07",
+			"downloadURL": "https://github.com/dommrogers/UnityExplorerTLD/releases/download/4.9.4/UnityExplorer.MelonLoader.IL2CPP.net6preview.interop.zip",
+			"modURL": "https://github.com/dommrogers/UnityExplorerTLD",
+			"description": "Bespoke TLD - in-game UI for exploring, debugging and modifying IL2CPP<br><br><a href='https://github.com/dommrogers/UnityExplorerTLD/blob/master/README.md#melonloader'>Install Instructions</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.22",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "KeyboardUtilities",
+			"displayName": "Keyboard Utilities",
+			"author": "ds5678",
+			"previousAuthors": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a>",
+			"released": "",
+			"updated": "2023-02-28",
+			"downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/2.0.0/KeyboardUtilities.dll",
+			"modURL": "https://github.com/ds5678/KeyboardUtilities",
+			"description": "A utility mod that enables other mods to more easily use keyboard and mouse input.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.19",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		}
+	]
 }
