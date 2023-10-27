@@ -67,7 +67,12 @@
 			"images": [
 				"https://raw.githubusercontent.com/TLD-Mods/TLD-Halloween/master/ThumbHW2.png"
 			],
-			"dependencies": [],
+			"dependencies": [
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
 			"status": {
 				"working": true,
 				"beta": false,
