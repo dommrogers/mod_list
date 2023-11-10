@@ -765,45 +765,7 @@
                 "downloads": []
             },
             "aliases": []
-        }, {
-            "type": "mod",
-            "version": "2.0.0",
-            "name": "SonicMode",
-            "displayName": "Sonic Mod",
-            "author": "ds5678",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2023-02-26",
-            "downloadURL": "https://github.com/ds5678/SonicMode/releases/download/2.0.0/SonicMode.dll",
-            "modURL": "https://github.com/ds5678/SonicMode",
-            "description": "Lets you sprint up to 30 times faster and control other movement characteristics.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings"
-            ],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.06",
-                "mlversion": "0.6.0.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
+        },{
             "type": "mod",
             "version": "3.0.0",
             "name": "TimeAccelerator",
