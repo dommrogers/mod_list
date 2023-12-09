@@ -695,16 +695,16 @@
             "aliases": []
         }, {
             "type": "mod",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "name": "SeasonedInterloping",
             "displayName": "Seasoned Interloping",
             "author": "ds5678",
             "previousAuthors": "",
             "released": "",
-            "updated": "2022-12-27",
-            "downloadURL": "https://github.com/ds5678/SeasonedInterloping/releases/download/1.0.0/SeasonedInterloping.dll",
+            "updated": "2023-12-09",
+            "downloadURL": "https://github.com/ds5678/SeasonedInterloping/releases/download/1.1.0/SeasonedInterloping.dll",
             "modURL": "https://github.com/ds5678/SeasonedInterloping",
-            "description": "Adds Forsaken Airfield and Bleak Inlet to the list of Interloper start regions.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+            "description": "Adds Forsaken Airfield, Bleak Inlet & Zone of Contamination to the list of Interloper start regions.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
             "tags": "",
             "categories": [],
             "gameversion": [
@@ -721,8 +721,8 @@
                 "issues": ""
             },
             "testedon": {
-                "tldversion": "2.06",
-                "mlversion": "0.6.0.0"
+                "tldversion": "2.25",
+                "mlversion": "0.6.1.0"
             },
             "updater": {
                 "enable": true,
