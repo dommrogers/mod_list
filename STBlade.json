@@ -275,18 +275,18 @@
 				"CraftingRevisions"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.22",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": [
 					"https://github.com/dommrogers/Better-Water-Management/releases/download/5.2.0/Better-Water-Management.dll",
 					"https://github.com/dommrogers/Better-Water-Management/releases/download/5.2.0/Better-Water-Management.modcomponent"

@@ -43,44 +43,6 @@
             "aliases": []
         }, {
             "type": "mod",
-            "version": "5.0.1",
-            "name": "Better-Stacking",
-            "displayName": "Better Stacking",
-            "author": "ds5678",
-            "previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-            "released": "",
-            "updated": "2023-03-31",
-            "downloadURL": "https://github.com/ds5678/Better-Stacking/releases/download/5.0.1/Better-Stacking.dll",
-            "modURL": "https://github.com/ds5678/Better-Stacking",
-            "description": "Makes more items stackable in the inventory.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.10",
-                "mlversion": "0.6.0.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": [
-                "BetterStacking"
-            ]
-        }, {
-            "type": "mod",
             "version": "4.4.0",
             "name": "Binoculars",
             "displayName": "",
