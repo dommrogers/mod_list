@@ -135,14 +135,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.5.3",
+			"version": "1.5.4",
 			"name": "ModData",
 			"displayName": "Mod Data",
 			"author": "STBlade",
 			"previousAuthors": "",
 			"released": "2023-03-16",
-			"updated": "2024-06-29",
-			"downloadURL": "https://github.com/dommrogers/ModData/releases/download/1.5.3/ModData.dll",
+			"updated": "2024-07-26",
+			"downloadURL": "https://github.com/dommrogers/ModData/releases/download/1.5.4/ModData.dll",
 			"modURL": "https://github.com/dommrogers/ModData",
 			"description": "A utility mod for TLD that lets other mods save data independently of the save file.",
 			"tags": "",
@@ -163,7 +163,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.30",
+				"tldversion": "2.31",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
