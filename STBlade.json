@@ -6,46 +6,6 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "0.0.2",
-			"name": "UnlimitedRockCaches",
-			"displayName": "Unlimited Rock Caches",
-			"author": "STBlade",
-			"previousAuthors": "",
-			"released": "2022-12-25",
-			"updated": "2022-12-25",
-			"downloadURL": "https://github.com/dommrogers/UnlimitedRockCaches/releases/download/0.0.2/UnlimitedRockCaches.dll",
-			"modURL": "https://github.com/dommrogers/UnlimitedRockCaches",
-			"description": "A simple TLD (The Long Dark) mod to remove the limitation on how many Rock Caches you can place in a region.<br><br>Allow up to 999 rock caches per region (uncertain on performance hit)<br>Rock caches can now be built right next to each other.",
-			"tags": "",
-			"categories": [
-				"Quality of Life",
-				"Misc"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.19",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "1.0.1",
 			"name": "Halloween",
 			"displayName": "Halloween",
@@ -239,7 +199,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.26",
+				"tldversion": "2.31",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
@@ -326,7 +286,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.28",
+				"tldversion": "2.31",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -365,7 +325,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.31",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -402,7 +362,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.31",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -444,7 +404,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.28",
+				"tldversion": "2.31",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -485,7 +445,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.31",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -561,7 +521,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.27",
+				"tldversion": "2.31",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -599,7 +559,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.27",
+				"tldversion": "2.31",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -636,7 +596,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.31",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
