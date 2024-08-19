@@ -421,7 +421,7 @@
 			"type": "mod",
 			"version": "3.1.1",
 			"name": "SkipIntroRedux",
-			"displayName": "Skip Intro",
+			"displayName": "Skip Intro Redux",
 			"author": "STBlade",
 			"previousAuthors": "ds5678, AlexTheRegent",
 			"released": "",
