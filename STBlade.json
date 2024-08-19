@@ -452,7 +452,7 @@
 				"enable": true,
 				"downloads": []
 			},
-			"aliases": []
+			"aliases": ["SkipIntro"]
 		},
 		{
 			"type": "mod",
