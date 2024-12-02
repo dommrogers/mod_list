@@ -1,3 +1,3 @@
 # nothing to see here...
 
-checkout http://xpazeman.com/tld-mod-list/
+checkout https://tldmods.com/
