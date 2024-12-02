@@ -123,8 +123,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.31",
-				"mlversion": "0.6.1"
+				"tldversion": "2.33",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -258,14 +258,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.3.2",
+			"version": "2.3.3",
 			"name": "CraftingRevisions",
 			"displayName": "Crafting Revisions",
 			"author": "STBlade",
 			"previousAuthors": "ds5678",
 			"released": "",
-			"updated": "2024-06-27",
-			"downloadURL": "https://github.com/dommrogers/CraftingRevisions/releases/download/2.3.2/CraftingRevisions.dll",
+			"updated": "2024-12-02",
+			"downloadURL": "https://github.com/dommrogers/CraftingRevisions/releases/download/2.3.3/CraftingRevisions.dll",
 			"modURL": "https://github.com/dommrogers/CraftingRevisions/",
 			"description": "Improves the Crafting UI and enables custom Blueprint/Recipe creation.",
 			"tags": "",
@@ -286,8 +286,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.31",
-				"mlversion": "0.6.1"
+				"tldversion": "2.33",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -325,8 +325,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.31",
-				"mlversion": "0.6.1"
+				"tldversion": "2.33",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -362,8 +362,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.31",
-				"mlversion": "0.6.1"
+				"tldversion": "2.33",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -404,8 +404,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.31",
-				"mlversion": "0.6.1"
+				"tldversion": "2.33",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -445,8 +445,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.31",
-				"mlversion": "0.6.1"
+				"tldversion": "2.33",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
