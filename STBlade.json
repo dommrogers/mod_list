@@ -336,14 +336,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0.1",
+			"version": "2.1.0",
 			"name": "LocalizationUtilities",
 			"displayName": "Localization Utilities",
 			"author": "STBlade",
 			"previousAuthors": "ds5678",
 			"released": "",
-			"updated": "2024-08-06",
-			"downloadURL": "https://github.com/dommrogers/LocalizationUtilities/releases/download/2.0.1/LocalizationUtilities.dll",
+			"updated": "2025-01-21",
+			"downloadURL": "https://github.com/dommrogers/LocalizationUtilities/releases/download/2.1.0/LocalizationUtilities.dll",
 			"modURL": "https://github.com/dommrogers/LocalizationUtilities/",
 			"description": "Utility mod for localized text.",
 			"tags": "",
@@ -362,7 +362,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
+				"tldversion": "2.39",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
