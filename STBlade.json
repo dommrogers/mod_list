@@ -457,45 +457,6 @@
 		{
 			"type": "mod",
 			"version": "2.0.0",
-			"name": "TimberwolvesAnywhere",
-			"displayName": "Timberwolves Anywhere",
-			"author": "STBlade",
-			"previousAuthors": "ds5678",
-			"released": "",
-			"updated": "2023-04-10",
-			"downloadURL": "https://github.com/dommrogers/TimberwolvesAnywhere/releases/download/2.0.0/TimberwolvesAnywhere.dll",
-			"modURL": "https://github.com/dommrogers/TimberwolvesAnywhere/",
-			"description": "Allows the user to decide what type of wolves will spawn in a region.",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.19",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "2.0.0",
 			"name": "KeyboardUtilities",
 			"displayName": "Keyboard Utilities",
 			"author": "ds5678",
