@@ -419,14 +419,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "3.1.2",
+			"version": "3.1.1",
 			"name": "SkipIntroRedux",
 			"displayName": "Skip Intro Redux",
 			"author": "STBlade",
 			"previousAuthors": "ds5678, AlexTheRegent",
 			"released": "",
-			"updated": "2025-12-04",
-			"downloadURL": "https://github.com/dommrogers/SkipIntroRedux/releases/download/3.1.2/SkipIntroRedux.dll",
+			"updated": "2023-06-23",
+			"downloadURL": "https://github.com/dommrogers/SkipIntroRedux/releases/download/3.1.1/SkipIntroRedux.dll",
 			"modURL": "https://github.com/dommrogers/SkipIntroRedux",
 			"description": "Allows the player to skip to the main menu when starting the game.<br><br><b>Use at your own risk</b> - Now skips those pesky disclaimers.",
 			"tags": "",
@@ -445,8 +445,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.50",
-				"mlversion": "0.7.2"
+				"tldversion": "2.33",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
