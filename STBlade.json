@@ -95,14 +95,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.5.4",
+			"version": "1.5.5",
 			"name": "ModData",
 			"displayName": "Mod Data",
 			"author": "STBlade",
 			"previousAuthors": "",
 			"released": "2023-03-16",
-			"updated": "2024-07-26",
-			"downloadURL": "https://github.com/dommrogers/ModData/releases/download/1.5.4/ModData.dll",
+			"updated": "2026-01-02",
+			"downloadURL": "https://github.com/dommrogers/ModData/releases/download/1.5.5/ModData.dll",
 			"modURL": "https://github.com/dommrogers/ModData",
 			"description": "A utility mod for TLD that lets other mods save data independently of the save file.",
 			"tags": "",
@@ -123,8 +123,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -173,14 +173,14 @@
 		},
 		{
 			"type": "plugin",
-			"version": "1.3.5",
+			"version": "2.0.0",
 			"name": "AutoUpdatingPlugin",
 			"displayName": "Auto Updating Plugin",
 			"author": "STBlade, ds5678",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2024-08-19",
-			"downloadURL": "https://github.com/dommrogers/AutoUpdatingPlugin/releases/latest/download/AutoUpdatingPlugin.dll",
+			"updated": "2026-01-02",
+			"downloadURL": "https://github.com/dommrogers/AutoUpdatingPlugin/releases/download/2.0.0/AutoUpdatingPlugin.dll",
 			"modURL": "https://github.com/dommrogers/AutoUpdatingPlugin",
 			"description": "Plugin. Updates most Mods & Plugins automatically.",
 			"tags": "",
@@ -199,8 +199,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.31",
-				"mlversion": "6.0.1"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -373,16 +373,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "6.3.3",
+			"version": "7.0.0",
 			"name": "ModComponent",
 			"displayName": "",
 			"author": "STBlade",
 			"previousAuthors": "<a href='https://github.com/ds5678' target='_blank'>ds5678</a>, <a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
 			"released": "",
-			"updated": "2025-02-18",
-			"downloadURL": "https://github.com/dommrogers/ModComponent/releases/download/6.3.3/ModComponent.dll",
+			"updated": "2026-01-02",
+			"downloadURL": "https://github.com/dommrogers/ModComponent/releases/download/7.0.0/ModComponent.dll",
 			"modURL": "https://github.com/dommrogers/ModComponent",
-			"description": "Utility Mod; lets you load external item packs.",
+			"description": "Now includes GearSpawner,CraftingRevisions,LocalizationUtilities built in.\n\nUtility Mod; lets you load external item packs.",
 			"tags": "",
 			"categories": [],
 			"gameversion": [
@@ -391,10 +391,7 @@
 			],
 			"images": [],
 			"dependencies": [
-				"ModSettings",
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions"
+				"ModSettings"
 			],
 			"status": {
 				"working": true,
@@ -404,8 +401,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.39",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -415,7 +412,13 @@
 				"AssetLoader",
 				"ModComponentMapper",
 				"ModComponentAPI"
-			]
+			],
+			"replaces": [
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+				]
+
 		},
 		{
 			"type": "mod",
@@ -425,8 +428,8 @@
 			"author": "STBlade",
 			"previousAuthors": "ds5678, AlexTheRegent",
 			"released": "",
-			"updated": "2023-06-23",
-			"downloadURL": "https://github.com/dommrogers/SkipIntroRedux/releases/download/3.1.1/SkipIntroRedux.dll",
+			"updated": "2026-01-02",
+			"downloadURL": "https://github.com/dommrogers/SkipIntroRedux/releases/download/3.1.2/SkipIntroRedux.dll",
 			"modURL": "https://github.com/dommrogers/SkipIntroRedux",
 			"description": "Allows the player to skip to the main menu when starting the game.<br><br><b>Use at your own risk</b> - Now skips those pesky disclaimers.",
 			"tags": "",
@@ -445,8 +448,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
