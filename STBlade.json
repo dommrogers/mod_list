@@ -221,7 +221,8 @@
 			"tags": "",
 			"categories": [],
 			"gameversion": [
-				"vanilla"
+				"vanilla",
+				"tftft"
 			],
 			"images": [],
 			"dependencies": [
@@ -383,8 +384,7 @@
 			"tags": "",
 			"categories": [],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [],
 			"dependencies": [
