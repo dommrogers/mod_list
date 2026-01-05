@@ -112,7 +112,9 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [],
+			"images": [
+			"https://github.com/dommrogers/mod_list/blob/master/moddata.png?raw=true"
+			],
 			"dependencies": [],
 			"status": {
 				"working": true,
@@ -187,7 +189,9 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [],
+			"images": [
+			"https://github.com/dommrogers/mod_list/blob/master/aup.png?raw=true"
+			],
 			"dependencies": [],
 			"status": {
 				"working": true,
@@ -265,7 +269,7 @@
 			"updated": "2024-12-02",
 			"downloadURL": "https://github.com/dommrogers/CraftingRevisions/releases/download/2.3.3/CraftingRevisions.dll",
 			"modURL": "https://github.com/dommrogers/CraftingRevisions/",
-			"description": "Improves the Crafting UI and enables custom Blueprint/Recipe creation.",
+			"description": "** Now Part of ModComponent 7.0.0<br />Improves the Crafting UI and enables custom Blueprint/Recipe creation.",
 			"tags": "",
 			"categories": [],
 			"gameversion": [
@@ -304,7 +308,7 @@
 			"updated": "2023-06-22",
 			"downloadURL": "https://github.com/dommrogers/GearSpawner/releases/download/2.3.2/GearSpawner.dll",
 			"modURL": "https://github.com/dommrogers/GearSpawner",
-			"description": "Utility mod for spawning modded items.",
+			"description": "** Now Part of ModComponent 7.0.0<br />Utility mod for spawning modded items.",
 			"tags": "",
 			"categories": [],
 			"gameversion": [
@@ -343,7 +347,7 @@
 			"updated": "2025-01-21",
 			"downloadURL": "https://github.com/dommrogers/LocalizationUtilities/releases/download/2.1.0/LocalizationUtilities.dll",
 			"modURL": "https://github.com/dommrogers/LocalizationUtilities/",
-			"description": "Utility mod for localized text.",
+			"description": "** Now Part of ModComponent 7.0.0<br />Utility mod for localized text.",
 			"tags": "",
 			"categories": [],
 			"gameversion": [
@@ -386,7 +390,9 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [],
+			"images": [
+			"https://github.com/dommrogers/mod_list/blob/master/modcomponent.png?raw=true"
+			],
 			"dependencies": [
 				"ModSettings"
 			],
@@ -434,7 +440,9 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [],
+			"images": [
+			"https://github.com/dommrogers/mod_list/blob/master/skipintro.png?raw=true"
+			],
 			"dependencies": [],
 			"status": {
 				"working": true,
@@ -474,7 +482,7 @@
 			"images": [],
 			"dependencies": [],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
