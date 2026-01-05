@@ -276,7 +276,9 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": [],
+			"images": [
+			"https://github.com/dommrogers/mod_list/blob/master/partofmc.png?raw=true"
+			],
 			"dependencies": [
 				"ModSettings"
 			],
@@ -315,7 +317,9 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": [],
+			"images": [
+			"https://github.com/dommrogers/mod_list/blob/master/partofmc.png?raw=true"
+			],
 			"dependencies": [
 				"ModSettings"
 			],
@@ -354,7 +358,9 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": [],
+			"images": [
+			"https://github.com/dommrogers/mod_list/blob/master/partofmc.png?raw=true"
+			],
 			"dependencies": [],
 			"status": {
 				"working": true,
